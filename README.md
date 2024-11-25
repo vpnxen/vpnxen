@@ -6,9 +6,9 @@
         "config": "trojan://{UID}@81.28.12.12:443?security=tls&allowInsecure=1&type=ws&path=/&host=test.test.dashboard.plaryerone.cloud#ovh-G-core"
     },
     {
-        "trojan://{UID}@81.28.12.12:443?path=%2F&security=tls&alpn=null&host=game.game.plaryerone.cloud&type=ws#Turkey-server1-GCORE"
+        "config": "trojan://{UID}@81.28.12.12:443?path=%2F&security=tls&alpn=null&host=game.game.plaryerone.cloud&type=ws#Turkey-server1-GCORE"
     },
     {
-        "trojan://{UID}@188.132.232.49:443?path=%2F&security=tls&alpn=null&fp=firefox&type=ws&sni=ovhcloud.com#Turkey-Server2-DIRECT"
+        "config": "trojan://{UID}@188.132.232.49:443?path=%2F&security=tls&alpn=null&fp=firefox&type=ws&sni=ovhcloud.com#Turkey-Server2-DIRECT"
     }
 ]
