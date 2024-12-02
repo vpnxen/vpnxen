@@ -10,5 +10,8 @@
     },
     {
         "config": "trojan://{UID}@api2.xenn.at:443?security=tls&sni=api.xenn.at&fp=firefox&type=ws&path=/&host=api2.xenn.at#NL-CLOUDFLARE"
+    },
+    {
+        "config": "trojan://{UID}@api3.xenn.at:443?security=tls&sni=api3.xenn.at&fp=firefox&type=ws&path=/&host=api3.xenn.at#FIN-CLOUDFLARE"
     }
 ]
