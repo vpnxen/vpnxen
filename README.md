@@ -4,5 +4,5 @@
     },
     {
         "config": "trojan://{UID}@81.28.12.12:443?security=tls&allowInsecure=1&type=ws&path=/&host=test.test.dashboard.plaryerone.cloud#ovh-G-core"
-    },
+    }
 ]
